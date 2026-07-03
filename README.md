@@ -118,7 +118,9 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-👉 [Click here to try the app]([https://your-streamlit-link.streamlit.app](https://bank-management-system-python-oop-kejarwltuktukynrehw4nw.streamlit.app/))
+## 🌐 Live Demo
+
+👉 [Click here to try the app](https://bank-management-system-python-oop-kejarwltuktukynrehw4nw.streamlit.app/)
 
 ## 👨‍💻 Author
 
