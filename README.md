@@ -2,7 +2,9 @@
 
 A **Bank Management System** built using **Python**, **Object-Oriented Programming (OOP)**, **JSON**, and **Streamlit**. This project provides a simple banking application that allows users to create accounts, perform transactions, manage account details, and securely store data using a JSON database.
 
----
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![License](https://img.shields.io/badge/License-MIT-green)---
 
 ## ✨ Features
 
