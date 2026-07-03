@@ -79,7 +79,7 @@ streamlit run app.py
 ### Create Account
 
 ![Create Account](screenshots/create_account.png)
-![Create Account](screenshots/create_account(2).png).
+![Create Account](screenshots/create_accout(2).png).
 
 ### Deposite Money
 
