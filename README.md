@@ -90,15 +90,15 @@ streamlit run app.py
 ![Withdraw Money](screenshots/withdraw_money.png)
 
 ### Account Details
-![Account Details](screenshots/account_details)
+![Account Details](screenshots/account_details.png)
 
 ### Update Details
 
-![Update Details](screenshots/update_details)
+![Update Details](screenshots/update_details.png)
 
 ### Delete Account 
 
-![Delete Account](screenshots/delete_account)
+![Delete Account](screenshots/delete_account.png)
 
 ---
 
