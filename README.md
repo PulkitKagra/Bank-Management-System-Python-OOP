@@ -76,7 +76,29 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
+### Create Account
 
+![Create Account](screenshots/create_account.png)
+![Create Account](screenshots/create_account(2).png).
+
+### Deposite Money
+
+![Deposite Money](screenshots/deposite_money.png)
+
+### Withdraw Money 
+
+![Withdraw Money](screenshots/withdraw_money.png)
+
+### Account Details
+![Account Details](screenshots/account_details)
+
+### Update Details
+
+![Update Details](screenshots/update_details)
+
+### Delete Account 
+
+![Delete Account](screenshots/delete_account)
 
 ---
 
